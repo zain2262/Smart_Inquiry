@@ -1,0 +1,14 @@
+
+id,message,expected_category
+1,"What is the price of your laptop?",Pricing
+2,"Do you offer any discounts?",Pricing
+3,"How much does delivery cost?",Pricing
+4,"Where is my order?",Order
+5,"My order has not arrived yet.",Order
+6,"Can I change my delivery address?",Order
+7,"My laptop is not turning on.",Support
+8,"I received a damaged product.",Support
+9,"How can I return a faulty item?",Support
+10,"I want to discuss a business partnership.",Other/Uncertain
+11,"Hi, I need some help.",Other/Uncertain
+12,"I want the price and I also have a complaint about my last order.",Other/Uncertain
